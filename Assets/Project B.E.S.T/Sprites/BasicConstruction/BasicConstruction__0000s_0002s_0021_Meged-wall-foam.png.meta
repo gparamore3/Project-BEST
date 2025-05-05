@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0002s_0021_Meged-wall-foam_0: 6426896231353946605
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

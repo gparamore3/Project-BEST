@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0002s_0027_Door-cover-side_0: -202411343618050803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

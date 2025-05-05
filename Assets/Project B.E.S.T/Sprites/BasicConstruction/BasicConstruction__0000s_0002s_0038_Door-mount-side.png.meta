@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0002s_0038_Door-mount-side_0: -3845178575078266304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0008s_0000_Biocarpet-tile_0: 8372555444370926022
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

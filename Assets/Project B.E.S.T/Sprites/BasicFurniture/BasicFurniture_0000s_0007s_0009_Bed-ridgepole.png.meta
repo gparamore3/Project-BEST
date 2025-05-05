@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0007s_0009_Bed-ridgepole_0: 5198587529765431753
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

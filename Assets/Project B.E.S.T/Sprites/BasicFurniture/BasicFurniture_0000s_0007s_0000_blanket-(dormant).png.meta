@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0007s_0000_blanket-(dormant)_0: -2575295968504840122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

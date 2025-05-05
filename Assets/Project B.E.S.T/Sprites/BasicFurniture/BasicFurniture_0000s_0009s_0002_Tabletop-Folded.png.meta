@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0009s_0002_Tabletop-Folded_0: -5556778149212779176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

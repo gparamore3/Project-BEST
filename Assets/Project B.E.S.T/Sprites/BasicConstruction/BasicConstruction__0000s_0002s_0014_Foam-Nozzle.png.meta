@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0002s_0014_Foam-Nozzle_0: -2554964620090592141
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

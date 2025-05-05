@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0002s_0024_Wall-cover-corner_0: 2420356247602862699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

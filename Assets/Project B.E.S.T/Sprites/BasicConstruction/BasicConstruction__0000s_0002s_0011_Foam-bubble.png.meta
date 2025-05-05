@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0002s_0011_Foam-bubble_0: 3951099974678299823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

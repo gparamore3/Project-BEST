@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0002s_0034_Wall-bioregulator-corner_0: 4192815772745082991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

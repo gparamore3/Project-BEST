@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0000s_0002_Interior-wall-crosshair_0: -3835875100670111896
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

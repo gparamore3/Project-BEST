@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0004s_0000_Door-pocket_0: 8284944482621447655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

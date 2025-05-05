@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0002s_0015_Small-_-wall-foam_0: 2407993106863261409
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

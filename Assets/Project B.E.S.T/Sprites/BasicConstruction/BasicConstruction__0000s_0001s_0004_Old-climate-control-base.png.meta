@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0001s_0004_Old-climate-control-base_0: 4937367332403261089
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0003s_0007_Floor-grunge-texture-2_0: 5888812956199966031
+      BasicConstruction__0000s_0003s_0007_Floor-grunge-texture-2_1: 8312264327766046967
+      BasicConstruction__0000s_0003s_0007_Floor-grunge-texture-2_2: -6769883639482803556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

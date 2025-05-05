@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_0: 4314114747020793628
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_1: 1282760507006680253
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_10: -6448769440123102420
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_11: 3517525898044513390
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_12: 7523515765011634795
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_13: -3985297629849769608
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_14: 8364543836118539653
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_15: 2826036705662100483
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_16: 5929342537417323988
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_17: -1571510176538430841
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_18: -919114398635482642
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_19: 269737407494981483
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_2: 8706220570870644906
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_20: 903652462398385012
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_21: -1794338615133054720
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_22: 5084521901017344296
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_23: -3969588278861222112
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_3: 6523066742165529007
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_4: -5296549770404243195
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_5: -7485682144286885783
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_6: -2243013733971338988
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_7: 1165282499021048471
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_8: -7450637430530287734
+      BasicConstruction__0000s_0000s_0003_Infrastructure-1_9: -672252455045847827
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

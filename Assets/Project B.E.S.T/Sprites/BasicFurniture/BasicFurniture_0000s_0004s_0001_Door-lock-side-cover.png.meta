@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0004s_0001_Door-lock-side-cover_0: 6324271735983310619
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

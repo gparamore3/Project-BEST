@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shuttlenoweps_0: 9164806741712200233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

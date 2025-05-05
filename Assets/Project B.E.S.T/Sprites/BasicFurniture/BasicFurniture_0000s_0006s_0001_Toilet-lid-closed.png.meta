@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0006s_0001_Toilet-lid-closed_0: -7196348621999049984
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

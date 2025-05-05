@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0002s_0037_Door-mount-addon_0: 2285448201414105686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

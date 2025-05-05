@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0000s_0000_Lattice_0: 3804187692218303585
+      BasicConstruction__0000s_0000s_0000_Lattice_1: 9095823135934427363
+      BasicConstruction__0000s_0000s_0000_Lattice_10: 5077055296569755630
+      BasicConstruction__0000s_0000s_0000_Lattice_11: 6922047248488366056
+      BasicConstruction__0000s_0000s_0000_Lattice_12: -139004852871733881
+      BasicConstruction__0000s_0000s_0000_Lattice_13: -1239501322154319025
+      BasicConstruction__0000s_0000s_0000_Lattice_14: 1829428277305392143
+      BasicConstruction__0000s_0000s_0000_Lattice_15: -9217858526080903449
+      BasicConstruction__0000s_0000s_0000_Lattice_16: 3237108825575924622
+      BasicConstruction__0000s_0000s_0000_Lattice_2: 8304432160835464342
+      BasicConstruction__0000s_0000s_0000_Lattice_3: 7400457632356772981
+      BasicConstruction__0000s_0000s_0000_Lattice_4: -6215426514714311297
+      BasicConstruction__0000s_0000s_0000_Lattice_5: -3197293857095378565
+      BasicConstruction__0000s_0000s_0000_Lattice_6: 6370011783910782210
+      BasicConstruction__0000s_0000s_0000_Lattice_7: 7787512662769593695
+      BasicConstruction__0000s_0000s_0000_Lattice_8: -6555592795362542359
+      BasicConstruction__0000s_0000s_0000_Lattice_9: -6239946470733577333
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

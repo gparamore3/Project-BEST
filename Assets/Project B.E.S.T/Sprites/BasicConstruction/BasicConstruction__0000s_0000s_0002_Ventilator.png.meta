@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0000s_0002_Ventilator_0: 5142403186623830494
+      BasicConstruction__0000s_0000s_0002_Ventilator_1: 1553098312463271777
+      BasicConstruction__0000s_0000s_0002_Ventilator_10: -705477125253136045
+      BasicConstruction__0000s_0000s_0002_Ventilator_11: 1715964986005518745
+      BasicConstruction__0000s_0000s_0002_Ventilator_12: 1696394131529193884
+      BasicConstruction__0000s_0000s_0002_Ventilator_13: -6451330479008041285
+      BasicConstruction__0000s_0000s_0002_Ventilator_14: 748043018224184990
+      BasicConstruction__0000s_0000s_0002_Ventilator_15: -6766871419516046969
+      BasicConstruction__0000s_0000s_0002_Ventilator_16: 4587120499252280637
+      BasicConstruction__0000s_0000s_0002_Ventilator_17: 7354324135422636544
+      BasicConstruction__0000s_0000s_0002_Ventilator_18: -8468307837084036467
+      BasicConstruction__0000s_0000s_0002_Ventilator_19: -7648340824331608975
+      BasicConstruction__0000s_0000s_0002_Ventilator_2: 7530056331984101190
+      BasicConstruction__0000s_0000s_0002_Ventilator_20: 408484801427701460
+      BasicConstruction__0000s_0000s_0002_Ventilator_3: 1769133791826419703
+      BasicConstruction__0000s_0000s_0002_Ventilator_4: 3674390720539239914
+      BasicConstruction__0000s_0000s_0002_Ventilator_5: 4011186873630889802
+      BasicConstruction__0000s_0000s_0002_Ventilator_6: 5560266630029892561
+      BasicConstruction__0000s_0000s_0002_Ventilator_7: 7448466448201972704
+      BasicConstruction__0000s_0000s_0002_Ventilator_8: 1323152546144480260
+      BasicConstruction__0000s_0000s_0002_Ventilator_9: 8171248937638556882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

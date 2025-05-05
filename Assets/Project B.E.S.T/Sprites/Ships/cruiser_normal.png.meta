@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cruiser_normal_0: 6029953350678516093
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0001s_0014_Roof-and-_-or-ground_0: 7858346779161995272
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0007s_0008_Bed-end_0: -6999842609362460063
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

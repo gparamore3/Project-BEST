@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0001s_0000_Color-Light-yellow_0: -8732935313556102749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

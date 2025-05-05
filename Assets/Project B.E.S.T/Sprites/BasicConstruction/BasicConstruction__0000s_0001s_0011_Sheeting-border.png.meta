@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0001s_0011_Sheeting-border_0: 1250767355265040734
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

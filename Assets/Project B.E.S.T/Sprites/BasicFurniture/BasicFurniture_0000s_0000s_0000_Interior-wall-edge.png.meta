@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0000s_0000_Interior-wall-edge_0: 9048081557644370241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

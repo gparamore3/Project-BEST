@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0001s_0008_Ventilation-hole_0: -4908402451183015408
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

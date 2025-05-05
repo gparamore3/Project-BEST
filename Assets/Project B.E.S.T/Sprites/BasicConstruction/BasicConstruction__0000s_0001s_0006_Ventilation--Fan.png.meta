@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0001s_0006_Ventilation--Fan_0: 1600620137198442300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

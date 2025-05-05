@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0005s_0001_Washbasin-green_0: -3017369707103280420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

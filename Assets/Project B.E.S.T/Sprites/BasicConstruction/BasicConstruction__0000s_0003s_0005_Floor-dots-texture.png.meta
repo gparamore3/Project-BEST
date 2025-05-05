@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0003s_0005_Floor-dots-texture_0: 6946486829921392501
+      BasicConstruction__0000s_0003s_0005_Floor-dots-texture_1: -5618897810808387486
+      BasicConstruction__0000s_0003s_0005_Floor-dots-texture_2: -969721535766166879
+      BasicConstruction__0000s_0003s_0005_Floor-dots-texture_3: -5392915242991664693
+      BasicConstruction__0000s_0003s_0005_Floor-dots-texture_4: -4557546805599113935
+      BasicConstruction__0000s_0003s_0005_Floor-dots-texture_5: 6160558344406111470
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

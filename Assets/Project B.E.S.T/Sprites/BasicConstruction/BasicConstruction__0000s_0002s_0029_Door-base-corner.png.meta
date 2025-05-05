@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicConstruction__0000s_0002s_0029_Door-base-corner_0: 6138178812905775584
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

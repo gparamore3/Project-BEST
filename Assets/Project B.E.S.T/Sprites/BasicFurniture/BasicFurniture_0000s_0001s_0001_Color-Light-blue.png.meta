@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BasicFurniture_0000s_0001s_0001_Color-Light-blue_0: -1122932626900702557
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

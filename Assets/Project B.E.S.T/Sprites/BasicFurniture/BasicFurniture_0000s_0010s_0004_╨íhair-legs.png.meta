@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "BasicFurniture_0000s_0010s_0004_\u2568\xEDhair-legs_0": 2237469960795426681
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
